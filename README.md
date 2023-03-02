@@ -6,7 +6,7 @@
 <h4>##보유기술##</h4>
 <br>
 
-사용할 줄 아는 : C, python
+사용할 줄 아는 언어: C, python
 <br>
 사용할 줄 아는 프레임워크: php, flask, django
 <br>
