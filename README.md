@@ -5,9 +5,12 @@
 <br>
 <h4>##보유기술##</h4>
 <br>
-사용할 줄 아는 언어: C, python
+
+사용할 줄 아는 : C, python
 <br>
 사용할 줄 아는 프레임워크: php, flask, django
+<br>
+사용할 줄 아는 프로그램: MySQL, Apache2, Docker, Modscurity, Suricata
 <br>
 <h4>##활동들##</h4>
 <br>
